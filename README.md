@@ -21,15 +21,16 @@ If you're interested, **check out that nice table detailing my projects and deve
 
 | ⚙️ Project | 🔨 Technologies | 🔗 Link | 🖥️ Platform |
 |---------|--------------|------|--------|
-| Qt 6 MQTT Remote Vehicle Control Application on a Touchscreen Raspberry Pi 4 and vehicle | C++ / MicroPython / Embedded / MQTT | [PIR_sensor_control_button](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython) | Microcontroller Device|
-| MQTT Infrared Alarm Device w/ animated graphical control screen and buttons module | MicroPython / Embedded / MQTT | [PIR_sensor_control_button](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython) | Microcontroller Device |
-| Qt 6 Touchscreen ATM application (incl. backend and DB) with RFID card reader | C++ / Embedded / Node.js / MySQL / RabbitMQ | [Qt6-ATM-app](https://github.com/slmksav/Qt6-ATM-app) | Embedded Linux |
-| Avatar: TLA RPG game | Python / Godot / VFX shaders | [avatar_dotw_v0.2](https://github.com/slmksav/avatar_dotw_v0.2) | HTML5 app (any) |
-| Entrenched - Multiplayer Survival Game | Python / Godot / MS Azure PlayFAB | [entrenched_v0.7](https://github.com/slmksav/entrenched_v0.7) | Microcontroller Device |
+| Qt 6 MQTT remote vehicle control application on a touchscreen Raspberry Pi 4 and vehicle | C++ / MicroPython / Embedded / MQTT | under progress | Embedded Linux and Microcontroller Device|
+| MQTT infrared alarm device w/ animated graphical control screen and buttons module | MicroPython / Embedded / MQTT | [PIR_sensor_control_button](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython) | Microcontroller Device |
+| Qt 6 touchscreen ATM application (incl. backend and DB) with RFID card reader | C++ / Embedded / Node.js / MySQL / RabbitMQ | [Qt6-ATM-app](https://github.com/slmksav/Qt6-ATM-app) | Embedded Linux |
+| Entrenched - Multiplayer Survival Game | Python / Godot / MS Azure PlayFAB | [entrenched_v0.7](https://github.com/slmksav/entrenched_v0.7) | Desktop |
 | FreeRTOS multi-threading simulation w/ Raspberry Pico microcontroller | C / C++ / FreeRTOS | [freeRTOS_comp_sim](https://github.com/slmksav/RPi-pico-projects/tree/main/pico-c%2B%2B/freeRTOS_comp_sim) | Microcontroller Device |
-| Autonomous Pathfinder Robot | MicroPython / Embedded / A* algorithm | [robot pathfinder](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython/robot%20pathfinder) | Microcontroller Device |
+| Avatar: TLA inspired RPG game | Python / Godot / VFX shaders | [avatar_dotw_v0.2](https://github.com/slmksav/avatar_dotw_v0.2) | HTML5 app (any) |
+| Arduino UNO-powered RFID safe system | C++ / Embedded | [safe-rfid-arduino](https://github.com/slmksav/safe-rfid-arduino) | Microcontroller Device |
+| Autonomous pathfinder robot vehicle | MicroPython / Embedded / A* algorithm | [robot pathfinder](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython/robot%20pathfinder) | Microcontroller Device |
 | Reaction time press gameset | MicroPython / Embedded | [ReactionGameV2](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython/reaction_time_game/Program) | Microcontroller Device |
+| Serverside scripts for the game Rust | C# | [rust-oxide-scripts](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython/reaction_time_game/Program)| Script / mod |
+| Gunpowder Mod for Minecraft's Fabric | Java | [gunpowder_v2.0.49](https://github.com/slmksav/gunpowder_v2.0.49)| Script / mod |
 | 💲Blockchain Telegram buy and competition bot | Python / Node.js / PostgreSQL | private | Telegram (bot and channel) |
-| 💲React website portal | React.js / MySQL | private | WWW |
-
-
+| 💲React website portal | React.js / MySQL | private | Web Application |
