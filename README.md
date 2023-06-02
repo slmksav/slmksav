@@ -3,7 +3,7 @@
 My name is **Sauli**, though I go by different nicknames on the internet as I try to not get too attached to one. I am **a freelance programmer and a software engineer.**
 
 ### About me 👤
-I am an extremely **versatile and passionate application builder and a dedicated hardware /  enthusiast**. I develop anything from small microcontroller-powered devices to complex web applications. I have been **programming since about the age of 12**, starting with adding new items to Minecraft using Java with no additional modding tools. Ever since then I chose to entertain myself by building virtual worlds that often required building pieces of software or extensive scripting to achieve. Doing this at my best learning age, it grew a programmer out of me. 👨‍💻‍
+I am an extremely **versatile and passionate application builder and a dedicated hardware /  enthusiast**. I develop anything from small microcontroller-powered devices to complex web applications. I have been **programming since about the age of 12**, starting with adding new items to Minecraft using Java with no additional modding tools. I chose to entertain myself by building virtual worlds that often required building pieces of software or extensive scripting to achieve. Doing this at my best learning age, it grew a programmer out of me. 👨‍💻‍
 
 📝 As of writing I am **pursuing my degree in software engineering, specializing in embedded systems**
 
