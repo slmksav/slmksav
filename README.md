@@ -31,4 +31,6 @@ If you're interested, **check out that nice table detailing my projects and deve
 | Serverside scripts for the game Rust | C# | [rust-oxide-scripts](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython/reaction_time_game/Program)| Script / mod |
 | Gunpowder Mod for Minecraft's Fabric | Java | [gunpowder_v2.0.49](https://github.com/slmksav/gunpowder_v2.0.49)| Script / mod |
 | 💲Blockchain Telegram buy and competition bot | Python / Node.js / PostgreSQL | private | Telegram (bot and channel) |
+| 💲AI contextualized chatbots | ----------- | private | Artificial Intelligence Application |
+| 💲React Application Dashboard | React.js / TypeScript | TailwindCSS | Web Application |
 | 💲React website portal | React.js / MySQL | private | Web Application |
