@@ -3,7 +3,7 @@
 My name is **Sauli**, though I go by different nicknames on the internet as I try to not get too attached to one. I am **a freelance programmer and a software engineer.**
 
 ### About me 👤
-I am an extremely **versatile and passionate application builder and a dedicated hardware /  enthusiast**. I develop anything from small microcontroller-powered devices to complex web applications. In addition to these, I have been delving deep into blockchain and web3 technology. 
+I am an extremely **versatile and passionate application builder and a dedicated hardware /  enthusiast**. I develop anything from small microcontroller-powered devices to complex web applications. In addition to these, I have been delving and diving deep into blockchain and web3 technology. 
 
 📍 I am currently residing in the EU
 
