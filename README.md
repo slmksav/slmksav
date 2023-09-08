@@ -30,6 +30,8 @@ If you're interested, **check out that nice table detailing my projects and deve
 | Reaction time press gameset | MicroPython / Embedded | [ReactionGameV2](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython/reaction_time_game/Program) | Microcontroller Device |
 | Serverside scripts for the game Rust | C# | [rust-oxide-scripts](https://github.com/slmksav/RPi-pico-projects/tree/main/micropython/reaction_time_game/Program)| Script / mod |
 | Gunpowder Mod for Minecraft's Fabric | Java | [gunpowder_v2.0.49](https://github.com/slmksav/gunpowder_v2.0.49)| Script / mod |
+| 💲Twitter Raiding Bot | Python tweepy / PostgresSQL | private | Bot |
+| 💲Web3 dApp Marketplace Platform | TypeScript / Wagmi / Ethers / TailwindCSS / Material UI / NodeJS / PostgresSQL | private | Web Application |
 | 💲Blockchain Telegram buy and competition bot | Python / Node.js / PostgreSQL | private | Telegram (bot and channel) |
 | 💲AI contextualized chatbots | ----------- | private | Artificial Intelligence Application |
 | 💲React Application Dashboard | React.js / TypeScript / TailwindCSS | private | Web Application |
