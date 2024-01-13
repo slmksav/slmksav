@@ -5,7 +5,7 @@ My name is **Sauli**, though I go by different nicknames on the internet as I tr
 ### About me 👤
 I am an extremely **versatile and passionate application builder and a dedicated hardware /  enthusiast**. I develop anything from small microcontroller-powered devices to complex web applications as a full-stack embedded engineer. In addition to these, I have been delving and diving deep into Blockchain and Web3 technology, in an ever-increasing amount.
 
-📍 I am currently residing in the EU. I hold Emirati residency. Currently I am studying as well to attain a M.D. in embedded electronics. 
+📍 I am currently residing in the EU. I hold Emirati residency. Currently I am studying as well to attain a M.D. in embedded electronics. I used to be a passionate game developer and modder, but I realized that spending time in it made deficit in my professional career.
 
 💬 Always looking to chat with like-minded people or collaborate on projects -> I have history of being in consultative positions in dozens of projects.
 
