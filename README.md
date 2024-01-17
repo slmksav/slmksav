@@ -1,15 +1,10 @@
 ### Hey there, looks like you've stumbled upon my GitHub page. ![penguin-walking](https://github.com/slmksav/slmksav/assets/87731856/078474b9-2114-468d-95c4-6787ce313373)
 
-My name is **Sauli**, though I go by different nicknames on the internet as I try to not get too attached to one. I am **an embedded electronics specialist and developer and more widely a software engineer, head of development and technical lead in many high-grossing Web3-related projects.** I am a Senior Developer, DevOps Engineer and Technical Lead of close to 9 years of experience (2 in professional worklife) designing and implementing software and hardware that is not made for just the sake of having something made, but to achieve legitimate value derived from them for the desired users.
+I am a **Senior-level Developer and DevOps Engineer** with specialization in embedded systems and electronics with close to 2+7 (2 as a professional and 7 as a hobbyist) years of experience designing and implementing software that is not made for just the sake of having something done, but to achieve legitimate value derived from the solution.
 
-### About me 👤
-I am an extremely **versatile and passionate application builder and a dedicated hardware /  enthusiast**. I develop anything from small microcontroller-powered devices to complex web applications as a full-stack embedded engineer. In addition to these, I have been delving and diving deep into Blockchain and Web3 technology, in an ever-increasing amount.
+I have developed anything from small microcontroller-powered devices to complex web applications as a full-stack developer. In addition to these, I have been working with Blockchain and Web3 technology and it's applications in IoT. In addition to these, I have been diving deep into Blockchain and Web3 technology, in an ever-increasing amount.
 
-📍 I am currently residing in the EU. I hold Emirati residency. Currently I am studying as well to attain a M.D. in embedded electronics. I used to be a passionate game developer and modder, but I realized that spending time in it made deficit in my professional career.
-
-💬 Always looking to chat with like-minded people or collaborate on projects -> I have history of being in consultative positions in dozens of projects.
-
-💼 For business proposals, shoot me a message on my website or one of my accounts.
+📍 I am currently residing in the EU and am studying towards an M.D. in Embedded Systems or related field.
 
 I currently hold the **Head of Development** position in a Web3-oriented developmental agency based in the UAE in addition to running my own registered businesses.
 
