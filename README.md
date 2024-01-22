@@ -17,10 +17,11 @@ And if you're interested, **check out the table below detailing my projects and 
 | ⚙️ Project | 🔨 Technologies | 🔗 Link | 🖥️ Platform |
 |---------|--------------|------|--------|
 | nrf5340 Bluetooth System on a Chip Development for Machine Learning algorithms | C / C++, Python, TensorFlow, Zephyr libraries |[ Zephyr_BT_nrf5340dk ](https://github.com/slmksav/Zephyr_BT_nrf5340dk)| Embedded Linux & System on Chip |
+| CSV-compatible Qt6 C++ and QML Management Application | C++, QML, CMake |[ Qt6-Management-App ](https://github.com/slmksav/Qt6-Management-App)| Desktop Application | 
 | 💲≈thousands of Solidity contracts on Ethereum and Layer 2's | Solidity, OpenZeppelin libraries, Hardhat, L2 SDKs (e.g. SKALE), DEX routers (e.g. Uniswap), in Node.js envs that utilize Ethers.js and Web3.js libraries. | private | Smart Contracts |
 | 💲Web3 dApp Marketplace Platform | TypeScript / Wagmi / Ethers / TailwindCSS / Material UI / NodeJS / PostgresSQL | private | Web Application |
 | 💲AI Image Generation to NFT Deployment pipeline software | Python / Node.js / PostgreSQL | private | Telegram (bot) |
-| 💲Running hundreds of deployed LLMs on different platforms | incl. Google Vertex, OpenAI, AWS Cloud, Monster API, Railway deployments of LLMs and supporting software | private | Artificial Intelligence Applications |
+| 💲Running hundreds of deployed LLMs on different platforms | incl. Google Vertex, OpenAI, AWS, Anyscale Railway deployments of LLMs and supporting software | private | Artificial Intelligence Applications |
 | 💲React Application Dashboard | React.js / TypeScript / TailwindCSS | private | Web Application |
 | 💲≈50 dApps on a Web Interface | React.js / MySQL | private | Web Application / dApp |
 | 💲≈5 Twitter Raiding & Conversational Bots | Python tweepy / PostgresSQL | private | Bot |
