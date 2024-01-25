@@ -2,15 +2,14 @@
 
 I am a **Senior-level Developer and DevOps Engineer** with specialization in embedded systems and electronics with close to 2+7 (2 as a professional and 7 as a hobbyist) years of experience designing and implementing software that is not made for just the sake of having something done, but to achieve legitimate value derived from the solution.
 
-I have developed anything from small microcontroller-powered devices to complex web applications as a full-stack developer. In addition to these, I have been working with Blockchain and Web3 technology and it's applications in IoT. In addition to these, I have been diving deep into Blockchain and Web3 technology, in an ever-increasing amount.
+I have developed anything from small microcontroller-powered devices to complex web applications as a full-stack developer.
 
-📍 I am currently residing in the EU and am studying towards an M.D. in Embedded Systems or related field.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=slmksav)](https://github.com/ljcutts/github-readme-stats)
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slmksav" />
 
 I currently hold the **Head of Development** position in a Web3-oriented developmental agency based in the UAE in addition to running my own registered businesses.
 
-And if you're interested, **check out the table below detailing my projects and development experience** that I've prepared for you. ↙️
-
-```//what else to add?```
+**Check out the table below detailing my projects and development experience** that I've prepared for you. ↙️
 
 ### List of Projects
 
