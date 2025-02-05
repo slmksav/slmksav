@@ -7,9 +7,9 @@ I have developed anything from small microcontroller-powered devices to complex 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=slmksav)](https://github.com/ljcutts/github-readme-stats)
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slmksav" />
 
-I currently hold the **Head of Development** position in a Web3-oriented developmental agency based in the UAE in addition to running my own registered businesses.
+I currently hold the **Head of Development** position in a Web3-oriented developmental agency based in the UAE.
 
-**Check out the table below detailing my projects and development experience** that I've prepared for you. ↙️
+**Check out the table below detailing my projects and development experience** 
 
 ### List of Projects
 
